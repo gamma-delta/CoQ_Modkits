@@ -1,3 +1,5 @@
-# Template Mod
+# Modkits
 
-Example mod. Uses [CBT](https://github.com/gamma-delta/coq-build-toolkit)
+Add mods to your items without using Tinkering.
+
+[Find it on the workshop here](https://steamcommunity.com/sharedfiles/filedetails/?id=3294839024.)
