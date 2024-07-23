@@ -10,8 +10,8 @@
   "modkits"
   "Modkits"
   "petrak@"
-  "0.1.0"
-  :description "Modkits let you put mods on an item without any tinkering skills."
+  "0.1.1"
+  :description "Modkits let you put mods on an item without any tinkering skills. Github: https://github.com/gamma-delta/CoQ_Modkits"
   :thumbnail "thumbnail.png"
   :steam-id 3294839024)
 
